@@ -6,3 +6,7 @@ output "instances" {
 # output "gemini" {
 #   value = 
 # }
+
+# output "gemini" {
+#   value = 
+# }
